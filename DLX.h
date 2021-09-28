@@ -8,6 +8,11 @@
 #include <stack>
 #include <cmath>
 
+/*
+ * These classes implement Donald Knuth's Algorithm X with dancing links and applies it to three
+ * different problems: sudoku, the n-queens problem, and polyomino tiling (a generalization of pentomino tiling). 
+ */
+
 using namespace std;
 
 struct dlx_matrix_node;
