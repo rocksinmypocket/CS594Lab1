@@ -4,7 +4,7 @@ Lab Assignment 1 for CS594 Fall 2021
 This program may be compiled by running the included makefile or using:
 
 ```
-g++ main.cpp DLX.h JGraph.h Puzzles.h -o SudokuVisualizer -O3 -std=c++11
+g++ main.cpp DLX.h JGraph.h -o SudokuVisualizer -O3 -std=c++11
 ```
 
 The compiled binary may be executed using
