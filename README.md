@@ -21,10 +21,10 @@ Once the program is running and has been provided a board, the following command
 solution - displays the solution for the current puzzle
 check - highlights correct and incorrect guesses for the current board in green and red, respectively
 {int int int} - interpretted as "value row column", used for making guesses on the current board
-nonvalid values will empty the square
+  nonvalid values will empty the square
 view - prints the current board
 save {string} - saves the current board to the given file name
-file name must contain only alphanumeric characters with a period for the file extension
+  file name must contain only alphanumeric characters with a period for the file extension
 exit - closes the program
 help - displays a list of commands
 ```
