@@ -34,3 +34,5 @@ Additionally, the makefile may be made to automatically generate 5 test sudoku b
 ```
 make test
 ```
+
+Of these boards, the first shows a simple example of error checking, the second solves the hardest known sudoku, the third simple adds some guesses to the input board and prints it (without checking) and the fourth and fifth simply solve the input boards.
