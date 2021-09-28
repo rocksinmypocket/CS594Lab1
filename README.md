@@ -37,6 +37,7 @@ make test
 
 Of these boards, the first shows a simple example of error checking, the second solves the hardest known sudoku, the third simple adds some guesses to the input board and prints it (without checking) and the fourth and fifth simply solve the input boards.
 
+# Example
 Below is a short walkthrough for generating the first test output:
 
 The first test board is a 4x4 board which looks like this
